@@ -1,0 +1,12 @@
+/docs
+/output
+/__pycache__
+/.venv
+/other
+/final
+/raw_data
+/merger_input_data
+/output_list_database
+/email_data
+*.csv
+*.pdf
